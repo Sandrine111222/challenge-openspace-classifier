@@ -1,5 +1,5 @@
 # OpenSpace Organizer
-! (https://cdn.hashnode.com/res/hashnode/image/upload/v1621268454447/FWZQPsdju.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)  
+! [Python mini projects] (https://cdn.hashnode.com/res/hashnode/image/upload/v1621268454447/FWZQPsdju.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)  
 
 
 ## 🏢 Description
