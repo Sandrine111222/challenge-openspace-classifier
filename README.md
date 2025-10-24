@@ -9,7 +9,8 @@ Your company moved to a new office at CEVI Ghent. Its an openspace with 6 tables
 
 This script runs everyday to re-assign everybody to a new seat.
 
-![Seating Chart – 6 People Per Round Table](https://www.101planners.com/wp-content/uploads/2021/01/Seating-chart-6-people-per-table-round.webp)
+![Round Table Seating Chart](https://images.template.net/wp-content/uploads/2015/10/05162350/Round-Table-Seating-Chart-Free-Word-Download.jpg)
+
 
 
 
