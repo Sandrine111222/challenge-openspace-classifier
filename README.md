@@ -1,5 +1,6 @@
 # OpenSpace Organizer
-![OpenSpace Seating Plan](https://cdn.hashnode.com/res/hashnode/image/upload/v1621268454447/FWZQPsdju.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+![Square Wedding Seating Chart](https://images.template.net/wp-content/uploads/2015/03/18053954/Square-Wedding-Seating-Chart-Word-Free-Download.jpg?width=390)
+
 
 
 
