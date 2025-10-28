@@ -1,5 +1,4 @@
-from utils.table import Table , Seat 
-from utils.openspace import Openspace
+
 
 # Create an Openspace
 openspace = Openspace(number_of_tables=6, table_capacity=4)
